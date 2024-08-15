@@ -119,6 +119,10 @@ section h2 {
     
 }
 
+.container h1 a {
+    color: #ffffff;
+    text-decoration: none;
+}
 
 
 /*############################################################*/
